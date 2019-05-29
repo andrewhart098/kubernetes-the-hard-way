@@ -1,0 +1,2 @@
+# Where I left off (5/29/2019)
+https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/03-compute-resources.md
