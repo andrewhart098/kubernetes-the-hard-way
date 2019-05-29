@@ -1,2 +1,9 @@
-# Where I left off (5/29/2019)
-https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/03-compute-resources.md
+# Where I left off 
+
+(5/29/2019)
++ Morning sesh 
+	+ https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/03-compute-resources.md
+
++ Before work sesh
+	+ https://github.com/andrewhart098/kubernetes-the-hard-way/blob/master/docs/03-compute-resources.md#firewall-rules
+
